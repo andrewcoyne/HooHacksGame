@@ -1,0 +1,12 @@
+code: 
+some code was used from script templates from Unity's platform game template. 
+game creating engine was unity
+
+music: 
+level 1 music by mattia cupelli grabbed from: https://www.youtube.com/watch?v=GWtwTnfyIpg 
+level 2 music by benjamin tissot grabbed from: https://www.bensound.com/royalty-free-music/track/new-dawn
+level 3 music by benjamin tissot grabbed from: https://www.bensound.com/royalty-free-music/track/ofelias-dream
+victory music by alexander nakarada grabbed from: https://www.youtube.com/watch?v=5mnxU2xVXpM
+
+demon death sound: 
+made by mike koenig grabbed from: https://soundbible.com/1033-Zombie-In-Pain.html
