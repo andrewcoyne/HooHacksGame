@@ -1,0 +1,2 @@
+The uploaded folder is a complete Unity file. To view this project in Unity, you can download the project as a zip file and then unzip in a separate folder and open the project with Unity. 
+The sources.txt file contains all relevant sources, including code and music sources. 
